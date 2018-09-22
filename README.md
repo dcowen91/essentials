@@ -1,18 +1,20 @@
 # essentials
 
-my personal take on a minimalist client starter kit
+my personal take on a minimal web app bootstrapper
 
-## What it gives you (todo 🦄)
+## What it gives you (🦄 TODO 🦄)
 
 - Typescript
 - React
-- Webpack (webpack-serve and webpack-cli)
+- Webpack
 - Tslint
 - Prettier
+- "create" script via npm
 
 ## Maybe (still deciding if I should add them, it won't be minimal if I add boilerplate)
 
 - Emotion
 - Redux
 - Jest
-- my personal vscode settings/recommended extensions etc
+- Hot reloading (I don't personally like this)
+- my personal vscode settings/recommended extensions

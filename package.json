@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server",
-    "lint": "tslint -p tsconfig.json"
+    "lint": "tslint -p tsconfig.json",
+    "_create": "node scripts/create.js"
   },
   "repository": {
     "type": "git",

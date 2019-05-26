@@ -1,38 +1,38 @@
 {
-  "name": "essentials",
-  "version": "0.1.0",
-  "description": "my personal take on a minimal web app bootstrapper",
-  "main": "src/index.tsx",
-  "scripts": {
-    "build": "webpack",
-    "start": "webpack-dev-server",
-    "lint": "tslint -p tsconfig.json"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dcowen91/essentials.git"
-  },
-  "author": "Drew Owen",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dcowen91/essentials/issues"
-  },
-  "homepage": "https://github.com/dcowen91/essentials#readme",
-  "dependencies": {
-    "@types/react": "^16.4.14",
-    "@types/react-dom": "^16.0.7",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
-  },
-  "devDependencies": {
-    "awesome-typescript-loader": "^5.2.1",
-    "html-webpack-plugin": "^3.2.0",
-    "tslint": "5.11.0",
-    "tslint-config-prettier": "^1.15.0",
-    "tslint-react": "^3.6.0",
-    "typescript": "3.0.3",
-    "webpack": "^4.19.1",
-    "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.8"
-  }
+	"name": "essentials",
+	"version": "0.1.0",
+	"description": "my personal take on a minimal web app bootstrapper",
+	"main": "src/index.tsx",
+	"scripts": {
+		"build": "webpack",
+		"start": "webpack-dev-server",
+		"lint": "tslint -p tsconfig.json"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dcowen91/essentials.git"
+	},
+	"author": "Drew Owen",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dcowen91/essentials/issues"
+	},
+	"homepage": "https://github.com/dcowen91/essentials#readme",
+	"dependencies": {
+		"@types/react": "^16.8.18",
+		"@types/react-dom": "^16.8.4",
+		"react": "^16.8.6",
+		"react-dom": "^16.8.6"
+	},
+	"devDependencies": {
+		"awesome-typescript-loader": "^5.2.1",
+		"html-webpack-plugin": "^3.2.0",
+		"tslint": "5.16.0",
+		"tslint-config-prettier": "^1.18.0",
+		"tslint-react": "^4.0.0",
+		"typescript": "3.4.5",
+		"webpack": "^4.32.2",
+		"webpack-cli": "^3.3.2",
+		"webpack-dev-server": "^3.4.1"
+	}
 }

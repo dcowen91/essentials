@@ -6,8 +6,8 @@ my personal take on a minimal web app bootstrapper
 
 This is a github repository template. simply click on the "Use this template button", then you are good to go! Once you create a new repository from this template, don't forget to update:
 
-- [] package.json name and description
-- [] readme.md
+- [ ] package.json name and description
+- [ ] readme.md
 
 ## Commands
 

@@ -21,5 +21,5 @@ Create-React-App doesn't quite suit my needs. It is missing some things I like, 
 - [x] Webpack
 - [x] Tslint
 - [x] Prettier
-- [ ] Emotion
+- [x] Emotion
 - [ ] My preferred vscode settings/extensions etc

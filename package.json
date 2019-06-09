@@ -6,19 +6,10 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server",
-    "lint": "tslint -p tsconfig.json",
-    "_create": "node scripts/create.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dcowen91/essentials.git"
+    "lint": "tslint -p tsconfig.json"
   },
   "author": "Drew Owen",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dcowen91/essentials/issues"
-  },
-  "homepage": "https://github.com/dcowen91/essentials#readme",
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
